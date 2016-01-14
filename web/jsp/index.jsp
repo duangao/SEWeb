@@ -153,7 +153,6 @@
 <script type="text/javascript">
     jQuery('#text1').on('keyup', function(e) {
         if (e.which == 13 && ! e.shiftKey) {
-            alert(e.which);
             this.form.submit();
         }
     });

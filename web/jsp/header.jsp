@@ -3,7 +3,7 @@
     <div class="container">
         <!-- Logo -->
         <a class="logo" href="/">
-            <img src="/static/img/logo1-default.png" alt="Logo">
+            <img src="/static/img/logo.jpg" alt="Logo">
         </a>
         <!-- End Logo -->
 
@@ -74,7 +74,7 @@
             <ul class="nav navbar-nav">
                 <!-- Home -->
 
-                <li id="indexHeader"><a href="/">主页</a></li>
+                <li id="indexHeader"><a href="/index">主页</a></li>
 
                 <!-- End Home -->
 

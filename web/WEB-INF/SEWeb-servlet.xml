@@ -16,6 +16,7 @@
     </bean>
 
     <!-- Definition for studentJDBCTemplate bean -->
+
     <bean id="database" class="model.Database">
         <property name="dataSource"  ref="dataSource" />
     </bean>

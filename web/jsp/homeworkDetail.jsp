@@ -239,7 +239,7 @@
             maxFiles : 1,
             addRemoveLinks : true,
             previewsContainer : ".dropzone-previews",
-            acceptedFiles: "application/zip",
+           // acceptedFiles: "application/zip",
             // The setting up of the dropzone
             init : function() {
                 var myDropzone = this;
